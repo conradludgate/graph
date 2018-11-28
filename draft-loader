@@ -1,0 +1,5 @@
+name=graph
+desc=A graphical calculator
+call=/usr/bin/graph
+term=:
+imgFile=fingerterm
